@@ -1,9 +1,5 @@
 <?php
-// =============================================
-// RECURSIVE DIRECTORY DISPLAY — Emerald Minimal Design
-// =============================================
 
-// Library structure
 $library = [
     "Fiction" => [
         "Fantasy" => ["Harry Potter", "The Hobbit"],
